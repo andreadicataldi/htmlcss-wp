@@ -161,7 +161,7 @@ main::after {
 }
 
 .three-column p {
-  padding: 20px;
+  padding: 15px;
   line-height: 30px;
   color: black;
 }
@@ -170,7 +170,13 @@ main::after {
   background-color: white;
   margin-bottom: 20px;
   border-radius: 5px;
-  padding: 15px;
+  padding: 20px;
+  line-height: 30px;
+}
+
+.text-widget h2 {
+  margin-bottom: 30px;
+  font-weight: 500;
 }
 
 footer {
