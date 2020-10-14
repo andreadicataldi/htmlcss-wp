@@ -152,6 +152,20 @@ main::after {
   padding: 15px;
 }
 
+.three-column h2 {
+  padding: 18px;
+  color: #504741;
+  text-transform: uppercase;
+  text-shadow: 3px 3px 0px rgba(0, 0, 0, .1);
+  font-weight: 500;
+}
+
+.three-column p {
+  padding: 20px;
+  line-height: 30px;
+  color: black;
+}
+
 .text-widget {
   background-color: white;
   margin-bottom: 20px;
