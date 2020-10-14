@@ -144,7 +144,7 @@ main::after {
 }
 .text-widget {
 	background-color: white;
-	margin-bottom: 20px;
+	margin-bottom: 40px;
 	border-radius: 5px;
 	padding: 20px;
 	line-height: 30px;
@@ -174,7 +174,7 @@ footer li {
 footer i {
 	color: lightgrey;
 	font-size: 40px;
-	padding: 30px;
+	padding: 40px;
 }
 .facebook {
 	margin-left: 15%;
